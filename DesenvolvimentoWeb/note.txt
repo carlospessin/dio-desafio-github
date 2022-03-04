@@ -1,0 +1,55 @@
+TCP/IP
+4 camadas
+1. Física (ex: placa de rede)
+2. Rede (ex: IP)
+3. Transporte (ex: TCP, UDP)
+4. Aplicação (ex: FTP,SMTP, HTTP)
+
+20: FTP
+22: SSH
+25: SMTP
+53: DNS
+80: HTTP
+443: HTTPS
+
+UDP
+- rápido
+- não confiável
+- carro do ovo
+- livestream
+
+TCP
+- voltado à conexão
+- Handshake
+- Integridade, ordemdos dados
+- Aplicativo de mensagens de texto
+
+
+Questões
+
+Em uma rede empresarial com muitos computadores, qual das opções abaixo traz a melhor opção de desempenho para a interligação entre os pontos de rede e o servidor?
+switch
+
+Selecione a alternativa incorreta.
+Para inserir código PHP em uma página web, é preciso usar as tags <?php e php?>
+
+Qual dos IPs abaixo é chamado de “localhost”?
+127.0.0.1
+
+Qual destas não é uma linguagem de programação?
+HTML
+
+Selecione a alternativa incorreta.
+Um profissional "back-end" trabalha, exclusivamente, com os servidores físicos.
+
+O que representa o X em “xampp”?
+O stema operacional.
+
+Sobre redes de computadores, assinale a alternativa correta.
+FTP, SSH, HTTP, HTTPS, POP3 e IMAP são exemplos de protocolos de comunicação entre diente e servidor.
+
+Sobre segurança em redes, assinale a alternativa correta.
+WEP2 é a mais indicada, pois é a mais segura atualmente e o poder computacional que temos hoje torna irrelevante seu maior custo computacional.
+
+Selecione a alternativa incorreta.
+JavaScript é uma linguagem script baseada na linguagem Java.
